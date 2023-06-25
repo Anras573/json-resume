@@ -1,0 +1,237 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Anders Bo Rasmussen",
+    "label": "Software Engineer",
+    "image": "https://avatars.githubusercontent.com/u/3352626?v=4",
+    "email": "anras573@mail.com",
+    "url": "https://registry.jsonresume.org/anras573",
+    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "location": {
+      "postalCode": "4180",
+      "city": "Sorø",
+      "countryCode": "DK"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Anders Bo Rasmussen",
+        "url": "https://www.linkedin.com/in/anders-bo-rasmussen-67693121/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Anras573",
+        "url": "https://github.com/Anras573"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Autobutler",
+      "location": "Copenhagen, DK",
+      "description": "Awesome compression company",
+      "position": "Developer Intern",
+      "url": "https://www.autobutler.dk/",
+      "startDate": "2014-07-01",
+      "endDate": "2014-10-01",
+      "summary": "Autobutler makes car ownership smarter, cheaper and more transparent through its online marketplace for car repairs offering transparency and trust in an otherwise puzzling industry"
+    },
+    {
+      "name": "Autobutler",
+      "location": "Copenhagen, DK",
+      "description": "Awesome compression company",
+      "position": "Junior Software Developer",
+      "url": "https://www.autobutler.dk/",
+      "startDate": "2014-10-01",
+      "endDate": "2015-02-01",
+      "summary": "Autobutler makes car ownership smarter, cheaper and more transparent through its online marketplace for car repairs offering transparency and trust in an otherwise puzzling industry"
+    },
+    {
+      "name": "Autobutler",
+      "location": "Copenhagen, DK",
+      "description": "Awesome compression company",
+      "position": "Junior Software Developer",
+      "url": "https://www.autobutler.dk/",
+      "startDate": "2015-06-01",
+      "endDate": "2016-08-31",
+      "summary": "Autobutler makes car ownership smarter, cheaper and more transparent through its online marketplace for car repairs offering transparency and trust in an otherwise puzzling industry"
+    },
+    {
+      "name": "ALD Automotive",
+      "location": "Høje Taastrup, DK",
+      "description": "Awesome compression company",
+      "position": "IT Developer",
+      "url": "https://www.aldautomotive.dk/",
+      "startDate": "2016-09-01",
+      "endDate": "2017-05-31",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+    },
+    {
+      "name": "Sigma Estimates A/S",
+      "location": "Høje Taastrup, DK",
+      "description": "Awesome compression company",
+      "position": "Software Developer",
+      "url": "https://eg.dk/it/kalkulation-og-opmaaling/eg-sigma/",
+      "startDate": "2017-06-01",
+      "endDate": "2018-06-30",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+    },
+    {
+      "name": "Itera",
+      "location": "Copenhagen, DK",
+      "description": "Awesome compression company",
+      "position": "Full-stack Developer",
+      "url": "https://www.itera.com/da/",
+      "startDate": "2018-08-01",
+      "endDate": "2019-07-31",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+    },
+    {
+      "name": "Hesehus A/S",
+      "location": "Odense, DK",
+      "description": "Awesome compression company",
+      "position": "Software Developer",
+      "url": "https://www.hesehus.dk/",
+      "startDate": "2019-08-01",
+      "endDate": "2021-09-30",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+    },
+    {
+      "name": "DFDS A/S",
+      "location": "Copenhagen, DK",
+      "description": "Awesome compression company",
+      "position": "Backend Developer",
+      "url": "https://www.dfds.com/da-dk/passagerfaerger",
+      "startDate": "2021-10-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Roskilde Festival",
+      "position": "IT and Communication",
+      "url": "https://www.roskilde-festival.dk/da/",
+      "startDate": "2009-07-01",
+      "endDate": "2009-08-01",
+      "summary": "Denmark's biggest music festival. I was part of the crew making sure that internet and telephony was working throughout the festival."
+    },
+    {
+      "organization": "Sørby eSport",
+      "position": "Event Crew",
+      "url": "https://sorby-esport.dk/",
+      "startDate": "2017-08-01",
+      "endDate": "2019-06-01",
+      "summary": "Sørby eSport is a local eSport club. I was part of the crew making sure that events ran smoothly."
+    }
+  ],
+  "education": [
+    {
+      "institution": "UCL (former Erhvervsakademiet Lillebælt)",
+      "url": "https://www.ucl.dk/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2015-02-01",
+      "endDate": "2016-06-30"
+    },
+    {
+      "institution": "Zealand",
+      "url": "https://www.zealand.dk/",
+      "area": "Software Development",
+      "studyType": "Academy Profession Degree",
+      "startDate": "2012-08-01",
+      "endDate": "2015-01-31"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Danish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Hadi Salameh",
+      "reference": "It's good to have Anders on the team as he always puts a smile on your face which is necessary when you are dealing with tedious logistical problems. He always offers his help and is just as humble to request it when he needs it. A true champ!"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}

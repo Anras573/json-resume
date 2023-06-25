@@ -1,0 +1,29 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "My resume in json format",
+  "main": "resume.json",
+  "scripts": {
+    "render": "resumed render --theme jsonresume-theme-even",
+    "validate": "resumed validate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anras573/json-resume.git"
+  },
+  "keywords": [
+    "resume",
+    "json"
+  ],
+  "author": "Anders Bo Rasmussen <anras573@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anras573/json-resume/issues"
+  },
+  "homepage": "https://github.com/Anras573/json-resume#readme",
+  "dependencies": {
+    "jsonresume-theme-even": "^0.18.1",
+    "resumed": "^3.0.1"
+  }
+}
