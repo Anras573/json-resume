@@ -161,22 +161,58 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Programming Languages",
+      "level": "Senior",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
+        "C#",
+        "Java",
+        "Ruby",
+        "Javascript",
+        "HTML/CSS",
+        "React",
+        "SQL"
+      ],
+      "preferred": ["C#", "SQL"]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Operations",
+      "level": "Senior",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
+        "GitHub",
+        "Azure DevOps",
+        "Azure",
+        "Docker",
+        "Windows"
+      ],
+        "preferred": ["GitHub", "Azure DevOps", "Azure", "Docker"]
+    },
+    {
+      "name": "Data Management",
+      "level": "Senior",
+      "keywords": [
+        "MS SQL",
+        "PostgreSQL",
+        "Redis",
+        "Lucene",
+        "Elasticsearch",
+        "Opensearch",
+        "OpenAPI"
+      ],
+        "preferred": ["MS SQL", "PostgreSQL", "Redis", "Elasticsearch", "OpenAPI"]
+    },
+    {
+      "name": "Processes and Methodologies",
+      "level": "Senior",
+      "keywords": [
+        "Scrum",
+        "Kanban",
+        "Test Driven Development",
+        "Domain Driven Design",
+        "CD/CI",
+        "Agile",
+        "DevOps"
+      ],
+        "preferred": ["Scrum", "Test Driven Development", "Domain Driven Design", "CD/CI", "Agile", "DevOps"]
     }
   ],
   "languages": [
