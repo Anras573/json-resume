@@ -6,7 +6,7 @@
     "image": "https://avatars.githubusercontent.com/u/3352626?v=4",
     "email": "anras573@mail.com",
     "url": "https://registry.jsonresume.org/anras573",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Highly skilled Back-end Developer with a strong background in C#. Proficient in multiple programming languages including Java, Ruby, and Delphi. Experienced in utilizing a variety of tools and technologies, such as ElasticSearch, Lucene, Redis, MS SQL, PostgreSQL, and Docker. Possesses a Bachelor of Software Development degree, and a certificate in developing Microsoft Azure Solutions. Proficient in front-end technologies including HTML, CSS, SCSS, CoffeeScript, JavaScript, and React.js. Excels in problem-solving, adapting to new challenges, and delivering efficient solutions.",
     "location": {
       "postalCode": "4180",
       "city": "Sorø",
@@ -27,13 +27,62 @@
   },
   "work": [
     {
+      "name": "DFDS A/S",
+      "location": "Copenhagen, DK",
+      "description": "Awesome compression company",
+      "position": "Backend Developer",
+      "url": "https://www.dfds.com/da-dk/passagerfaerger",
+      "startDate": "2021-10-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+    },
+    {
+      "name": "Hesehus A/S",
+      "location": "Odense, DK",
+      "description": "Awesome compression company",
+      "position": "Software Developer",
+      "url": "https://www.hesehus.dk/",
+      "startDate": "2019-08-01",
+      "endDate": "2021-09-30",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+    },
+    {
+      "name": "Itera",
+      "location": "Copenhagen, DK",
+      "description": "Awesome compression company",
+      "position": "Full-stack Developer",
+      "url": "https://www.itera.com/da/",
+      "startDate": "2018-08-01",
+      "endDate": "2019-07-31",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+    },
+    {
+      "name": "Sigma Estimates A/S",
+      "location": "Høje Taastrup, DK",
+      "description": "Awesome compression company",
+      "position": "Software Developer",
+      "url": "https://eg.dk/it/kalkulation-og-opmaaling/eg-sigma/",
+      "startDate": "2017-06-01",
+      "endDate": "2018-06-30",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+    },
+    {
+      "name": "ALD Automotive",
+      "location": "Høje Taastrup, DK",
+      "description": "Awesome compression company",
+      "position": "IT Developer",
+      "url": "https://www.aldautomotive.dk/",
+      "startDate": "2016-09-01",
+      "endDate": "2017-05-31",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+    },
+    {
       "name": "Autobutler",
       "location": "Copenhagen, DK",
       "description": "Awesome compression company",
-      "position": "Developer Intern",
+      "position": "Junior Software Developer",
       "url": "https://www.autobutler.dk/",
-      "startDate": "2014-07-01",
-      "endDate": "2014-10-01",
+      "startDate": "2015-06-01",
+      "endDate": "2016-08-31",
       "summary": "Autobutler makes car ownership smarter, cheaper and more transparent through its online marketplace for car repairs offering transparency and trust in an otherwise puzzling industry"
     },
     {
@@ -50,60 +99,11 @@
       "name": "Autobutler",
       "location": "Copenhagen, DK",
       "description": "Awesome compression company",
-      "position": "Junior Software Developer",
+      "position": "Developer Intern",
       "url": "https://www.autobutler.dk/",
-      "startDate": "2015-06-01",
-      "endDate": "2016-08-31",
+      "startDate": "2014-07-01",
+      "endDate": "2014-10-01",
       "summary": "Autobutler makes car ownership smarter, cheaper and more transparent through its online marketplace for car repairs offering transparency and trust in an otherwise puzzling industry"
-    },
-    {
-      "name": "ALD Automotive",
-      "location": "Høje Taastrup, DK",
-      "description": "Awesome compression company",
-      "position": "IT Developer",
-      "url": "https://www.aldautomotive.dk/",
-      "startDate": "2016-09-01",
-      "endDate": "2017-05-31",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
-    },
-    {
-      "name": "Sigma Estimates A/S",
-      "location": "Høje Taastrup, DK",
-      "description": "Awesome compression company",
-      "position": "Software Developer",
-      "url": "https://eg.dk/it/kalkulation-og-opmaaling/eg-sigma/",
-      "startDate": "2017-06-01",
-      "endDate": "2018-06-30",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
-    },
-    {
-      "name": "Itera",
-      "location": "Copenhagen, DK",
-      "description": "Awesome compression company",
-      "position": "Full-stack Developer",
-      "url": "https://www.itera.com/da/",
-      "startDate": "2018-08-01",
-      "endDate": "2019-07-31",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
-    },
-    {
-      "name": "Hesehus A/S",
-      "location": "Odense, DK",
-      "description": "Awesome compression company",
-      "position": "Software Developer",
-      "url": "https://www.hesehus.dk/",
-      "startDate": "2019-08-01",
-      "endDate": "2021-09-30",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
-    },
-    {
-      "name": "DFDS A/S",
-      "location": "Copenhagen, DK",
-      "description": "Awesome compression company",
-      "position": "Backend Developer",
-      "url": "https://www.dfds.com/da-dk/passagerfaerger",
-      "startDate": "2021-10-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
     }
   ],
   "volunteer": [
