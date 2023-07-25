@@ -29,81 +29,111 @@
     {
       "name": "DFDS A/S",
       "location": "Copenhagen, DK",
-      "description": "Awesome compression company",
       "position": "Backend Developer",
       "url": "https://www.dfds.com/da-dk/passagerfaerger",
       "startDate": "2021-10-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+      "summary": "During my time at DFDS, I have pushed for better code quality and knowledge sharing. I have also been part of the team that is responsible for the Planning system for DFDS Logistics. The Planning system is written as a Desktop application in C# and WPF. The backend is written in C#, and MSSQL.",
+      "highlights": [
+        "Part of the team that is responsible for the Planning system for DFDS Logistics. Written as a Desktop application in C# and WPF.",
+        "Migrated a PostgreSQL database from version 10 to version 15 in AWS RDS, also upgrading the underlying server from tier from 2 to 3.",
+        "Hosted tech talks, and pushed for more knowledge sharing, and for learning on the job time.",
+        "Part of the buddy system, making sure new employees get a good start at DFDS."
+      ]
     },
     {
       "name": "Hesehus A/S",
       "location": "Odense, DK",
-      "description": "Awesome compression company",
       "position": "Software Developer",
       "url": "https://www.hesehus.dk/",
       "startDate": "2019-08-01",
       "endDate": "2021-09-30",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+      "summary": "During my time at Hesehus, I primarily worked on improving performance in existing applications. The E-commerce solutions where written in C#, ASP.NET, ASP.NET CORE. The front-end was written in Razor Pages, or React.js depending on the age of the applications. The search solutions were utilizing Lucene and Elasticsearch.",
+      "highlights": [
+        "Upgrading older Lucene indexes to Elasticsearch, increasing performance, and maintainability.",
+        "Integrated E-commerce solutions with the BizzKit platform.",
+        "Performance optimization of slow running queries, and introduced a multilayered caching, by utilizing Redis."
+      ]
     },
     {
       "name": "Itera",
       "location": "Copenhagen, DK",
-      "description": "Awesome compression company",
       "position": "Full-stack Developer",
       "url": "https://www.itera.com/da/",
       "startDate": "2018-08-01",
       "endDate": "2019-07-31",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+      "summary": "During my time as a consultant at Itera I have been in charge of an e-mailing system, and a custom back-up system that was compliant with very specific requirements. The e-mailing system was written in C#, ASP.NET, and Knockout.js, and the back-up system was written in C#, utilizing Azure Functions, and Azure Blob Storage.",
+      "highlights": [
+        "Extended a e-mailing system with the ability to make threaded conversations.",
+        "Built a new Outlook add-in for connecting outlook with Jira. Enabling users to either create a jira ticket directly from the email, or see the issue in outlook, if an issue was already created.",
+        "Built a custom back-up system, utilizing Azure Functions, and Azure Blob Storage."
+      ]
     },
     {
       "name": "Sigma Estimates A/S",
       "location": "Høje Taastrup, DK",
-      "description": "Awesome compression company",
       "position": "Software Developer",
       "url": "https://eg.dk/it/kalkulation-og-opmaaling/eg-sigma/",
       "startDate": "2017-06-01",
       "endDate": "2018-06-30",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+      "summary": "Part of the Core Sigma Team, responsible for the build pipeline, the upcoming cloud framework, and SharePoint Online integration. The Sigma Engine was written in Delphi XE. The cloud framework was written in C#, and the SharePoint Online integration was written in C#.",
+      "highlights": [
+        "Migrated the build pipeline to new server hardware.",
+        "Implemented the new cloud framework for the Sigma Ecosystem, using methodologies such as CQRS, and Event Sourcing.",
+        "Created a custom file handler for SharePoint Online, enabling users to open files directly into the Sigma Engine.",
+        "Integrated third-party pricing catalogues into the Sigma Engine."
+      ]
     },
     {
       "name": "ALD Automotive",
       "location": "Høje Taastrup, DK",
-      "description": "Awesome compression company",
       "position": "IT Developer",
       "url": "https://www.aldautomotive.dk/",
       "startDate": "2016-09-01",
       "endDate": "2017-05-31",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
+      "summary": "Part of the team that remade the customer portal MyALD from scratch. Built using C#, ASP.NET CORE MVC, and MSSQL.",
+      "highlights": [
+        "Migrating from a Sitecore solution to a custom built web application, using ASP.NET CORE MVC.",
+        "Integrated the backend with a new frontend, written by In2Media.",
+        "Took over frontend development from In2Media."
+      ]
     },
     {
       "name": "Autobutler",
       "location": "Copenhagen, DK",
-      "description": "Awesome compression company",
       "position": "Junior Software Developer",
       "url": "https://www.autobutler.dk/",
       "startDate": "2015-06-01",
       "endDate": "2016-08-31",
-      "summary": "Autobutler makes car ownership smarter, cheaper and more transparent through its online marketplace for car repairs offering transparency and trust in an otherwise puzzling industry"
+      "summary": "During my time at Autobutler I was part of the team that built and maintained the Autobutler platform. The platform was built using Ruby on Rails, and the front-end was built using Angular.js, SCSS, and HTML. We started migrating the front-end to React.js.",
+      "highlights": [
+        "Refactored the in-house CMS system for increased performance, maintainability, and usability."
+      ]
     },
     {
       "name": "Autobutler",
       "location": "Copenhagen, DK",
-      "description": "Awesome compression company",
       "position": "Junior Software Developer",
       "url": "https://www.autobutler.dk/",
       "startDate": "2014-10-01",
       "endDate": "2015-02-01",
-      "summary": "Autobutler makes car ownership smarter, cheaper and more transparent through its online marketplace for car repairs offering transparency and trust in an otherwise puzzling industry"
+      "summary": "During my time at Autobutler I was part of the team that built and maintained the Autobutler platform. The platform was built using Ruby on Rails, and the front-end was built using CoffeeScript, SCSS, and HTML. We started migrating the front-end to Angular.js.",
+      "highlights": [
+        "Integrated Atubutler's platform with Comparo (insurance company), and Uber.",
+        "Built a solution for car owners to get an offer on car insurance, in conjunction with NeXt Insurance."
+      ]
     },
     {
       "name": "Autobutler",
       "location": "Copenhagen, DK",
-      "description": "Awesome compression company",
       "position": "Developer Intern",
       "url": "https://www.autobutler.dk/",
       "startDate": "2014-07-01",
       "endDate": "2014-10-01",
-      "summary": "Autobutler makes car ownership smarter, cheaper and more transparent through its online marketplace for car repairs offering transparency and trust in an otherwise puzzling industry"
+      "summary": "During my time at Autobutler I was part of the team that built and maintained the Autobutler platform. The platform was built using Ruby on Rails, and the front-end was built using CoffeeScript, SCSS, and HTML.",
+      "highlights": [
+        "Designed and implemented a benefit system, enabling car owner to view the advantages they received from other companies, by using Autobutler's services.",
+        "Maintained and developed new features for the 'get an offer on car insurance' solution"
+      ]
     }
   ],
   "volunteer": [
@@ -140,23 +170,6 @@
       "studyType": "Academy Profession Degree",
       "startDate": "2012-08-01",
       "endDate": "2015-01-31"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
   "skills": [
