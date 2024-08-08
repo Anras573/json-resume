@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Anders Bo Rasmussen",
-    "label": "Software Engineer",
+    "label": "Senior Software Engineer",
     "image": "https://avatars.githubusercontent.com/u/3352626?v=4",
     "email": "anras573@mail.com",
     "url": "https://registry.jsonresume.org/anras573",
@@ -27,11 +27,24 @@
   },
   "work": [
     {
+      "name": "Siteimprove",
+      "location": "Copenhagen, DK",
+      "position": "Senior Software Engineer",
+      "url": "https://www.siteimprove.com/",
+      "startDate": "2023-12-01",
+      "summary": "During my time at Siteimprove, I have focused on migrating the existing system to a micro frontend-oriented architecture, ensuring scalability, maintainability, and enhanced user experience. I contributed to both the design and implementation of new features while optimizing the platform to meet modern web standards.",
+      "highlights": [
+        "Collaborated with product teams to identify key areas for improvement and successfully implemented solutions that align with business goals and user needs.",
+        "Developed and maintained reusable components and services that enhanced the development workflow, accelerating feature delivery across the engineering team."
+      ]
+    },
+    {
       "name": "DFDS A/S",
       "location": "Copenhagen, DK",
       "position": "Backend Developer",
       "url": "https://www.dfds.com/da-dk/passagerfaerger",
       "startDate": "2021-10-01",
+      "endDate": "2023-11-30",
       "summary": "During my time at DFDS, I have pushed for better code quality and knowledge sharing. I have also been part of the team that is responsible for the Planning system for DFDS Logistics. The Planning system is written as a Desktop application in C# and WPF. The backend is written in C#, and MSSQL.",
       "highlights": [
         "Part of the team that is responsible for the Planning system for DFDS Logistics. Written as a Desktop application in C# and WPF.",
@@ -180,6 +193,7 @@
         "C#",
         "Java",
         "Ruby",
+        "Typescript",
         "Javascript",
         "HTML/CSS",
         "React",
@@ -194,6 +208,7 @@
         "GitHub",
         "Azure DevOps",
         "Azure",
+        "AWS",
         "Docker",
         "Windows"
       ],
@@ -205,6 +220,7 @@
       "keywords": [
         "MS SQL",
         "PostgreSQL",
+        "Oracle DB",
         "Redis",
         "Lucene",
         "Elasticsearch",
@@ -240,10 +256,10 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Reading",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Fantasy",
+        "Science Fiction"
       ]
     }
   ],
@@ -251,31 +267,6 @@
     {
       "name": "Hadi Salameh",
       "reference": "It's good to have Anders on the team as he always puts a smile on your face which is necessary when you are dealing with tedious logistical problems. He always offers his help and is just as humble to request it when he needs it. A true champ!"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "https://.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
     }
   ],
   "meta": {
