@@ -27,6 +27,21 @@
   },
   "work": [
     {
+      "name": "LEGO Group",
+      "location": "Copenhagen, DK",
+      "position": "Senior Software Engineer",
+      "url": "https://www.lego.com/",
+      "startDate": "2024-12-01",
+      "summary": "Working on the Creative Work Management platform, focused on AI-powered tooling for marketing and campaign operations. Contributing to architecture decisions, mentoring, and knowledge sharing alongside core feature delivery.",
+      "highlights": [
+        "Designed and implemented the Smart Briefing feature — an AI-driven system for generating campaign briefs, including predictions, themes, and source synchronisation.",
+        "Authored ADR-001, defining a JSONB-based storage-agnostic model for deliverable predictions with field-level reasoning and schema versioning.",
+        "Contributed to technical scoping, cross-team coordination, and sprint ceremonies alongside core engineering work.",
+        "Mentoring junior and mid-level engineers through structured sessions focused on scoping and technical decision-making.",
+        "Publishes a weekly internal AI newsletter covering developments relevant to the engineering team."
+      ]
+    },
+    {
       "name": "Siteimprove",
       "location": "Copenhagen, DK",
       "position": "Senior Software Engineer",
