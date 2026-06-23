@@ -263,9 +263,36 @@
       "reference": "It's good to have Anders on the team as he always puts a smile on your face which is necessary when you are dealing with tedious logistical problems. He always offers his help and is just as humble to request it when he needs it. A true champ!"
     }
   ],
+  "projects": [
+    {
+      "name": "AIchemist",
+      "description": "Open-source AI developer tooling plugin for Claude Code and GitHub Copilot CLI, featuring 7 specialized agents and 19 workflow skills covering code review, Jira execution, architecture exploration, Playwright testing, PostgreSQL querying, Obsidian research, and Microsoft 365 calendar workflows.",
+      "highlights": [
+        "Designed multi-agent review and implementation workflows with safety gates, confidence scoring, Jira integration, and domain-specific guidance for .NET, TypeScript/React, and DDD.",
+        "Productized with installable manifests, documentation, GitHub Actions validation, automated release management, and marketplace metadata.",
+        "Added transcript-mining hooks that turn repeated manual patterns into structured automation candidates."
+      ],
+      "keywords": ["AI", "Model Context Protocol", "Claude Code", "TypeScript", "Developer Tooling"],
+      "url": "https://github.com/Anras573/AIchemist",
+      "type": "application"
+    },
+    {
+      "name": "AIchemist UI",
+      "description": "Desktop AI coding assistant that connects to local project directories and runs LLM agent sessions with file access, shell execution, approval-gated tools, and persistent chat history.",
+      "highlights": [
+        "Architected an Electron + React desktop app with typed IPC, SQLite persistence, and Zustand state management for streaming agent sessions, tool calls, and session hydration.",
+        "Integrated multiple AI providers including Anthropic Claude, GitHub Copilot, Ollama, and OpenAI-compatible endpoints, with provider probing, model selection, and session continuity.",
+        "Built approval-gated MCP/tool execution for file writes, shell commands, web fetches, and native transcript rendering.",
+        "Maintained 75+ Vitest test files covering Electron IPC, provider integrations, database persistence, renderer state, and UI flows."
+      ],
+      "keywords": ["AI", "Electron", "React", "TypeScript", "SQLite", "MCP"],
+      "url": "https://github.com/Anras573/AIchemist-UI",
+      "type": "application"
+    }
+  ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "version": "v2.0.0",
+    "lastModified": "2026-06-23T11:34:00"
   }
 }
