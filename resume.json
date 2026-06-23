@@ -62,12 +62,11 @@
       "url": "https://www.dfds.com/da-dk/passagerfaerger",
       "startDate": "2021-10-01",
       "endDate": "2023-11-30",
-      "summary": "During my time at DFDS, I have pushed for better code quality and knowledge sharing. I have also been part of the team that is responsible for the Planning system for DFDS Logistics. The Planning system is written as a Desktop application in C# and WPF. The backend is written in C#, and MSSQL.",
+      "summary": "Backend engineer on the Planning system for DFDS Logistics — a C#/WPF desktop application with a C#/MSSQL backend. Focused on code quality, knowledge sharing, and team onboarding.",
       "highlights": [
-        "Part of the team that is responsible for the Planning system for DFDS Logistics. Written as a Desktop application in C# and WPF.",
-        "Migrated a PostgreSQL database from version 10 to version 15 in AWS RDS, also upgrading the underlying server from tier from 2 to 3.",
-        "Hosted tech talks, and pushed for more knowledge sharing, and for learning on the job time.",
-        "Part of the buddy system, making sure new employees get a good start at DFDS."
+        "Migrated a PostgreSQL database from version 10 to version 15 in AWS RDS, upgrading the underlying server tier from 2 to 3.",
+        "Hosted tech talks and championed dedicated learning time across the team.",
+        "Part of the buddy system, ensuring new employees got a strong start at DFDS."
       ]
     },
     {
@@ -77,11 +76,11 @@
       "url": "https://www.hesehus.dk/",
       "startDate": "2019-08-01",
       "endDate": "2021-09-30",
-      "summary": "During my time at Hesehus, I primarily worked on improving performance in existing applications. The E-commerce solutions where written in C#, ASP.NET, ASP.NET CORE. The front-end was written in Razor Pages, or React.js depending on the age of the applications. The search solutions were utilizing Lucene and Elasticsearch.",
+      "summary": "Worked on e-commerce solutions built in C#, ASP.NET, and ASP.NET Core, with Razor Pages and React.js frontends. Focused primarily on performance improvements across search and data layers.",
       "highlights": [
-        "Upgrading older Lucene indexes to Elasticsearch, increasing performance, and maintainability.",
-        "Integrated E-commerce solutions with the BizzKit platform.",
-        "Performance optimization of slow running queries, and introduced a multilayered caching, by utilizing Redis."
+        "Upgraded older Lucene indexes to Elasticsearch, increasing performance and maintainability.",
+        "Integrated e-commerce solutions with the BizzKit platform.",
+        "Optimised slow-running queries and introduced multilayered caching using Redis."
       ]
     },
     {
@@ -91,11 +90,11 @@
       "url": "https://www.itera.com/da/",
       "startDate": "2018-08-01",
       "endDate": "2019-07-31",
-      "summary": "During my time as a consultant at Itera I have been in charge of an e-mailing system, and a custom back-up system that was compliant with very specific requirements. The e-mailing system was written in C#, ASP.NET, and Knockout.js, and the back-up system was written in C#, utilizing Azure Functions, and Azure Blob Storage.",
+      "summary": "Consultant responsible for an emailing system and a custom backup solution built to meet strict compliance requirements. Stack: C#, ASP.NET, Knockout.js, Azure Functions, and Azure Blob Storage.",
       "highlights": [
-        "Extended a e-mailing system with the ability to make threaded conversations.",
-        "Built a new Outlook add-in for connecting outlook with Jira. Enabling users to either create a jira ticket directly from the email, or see the issue in outlook, if an issue was already created.",
-        "Built a custom back-up system, utilizing Azure Functions, and Azure Blob Storage."
+        "Extended the emailing system with threaded conversation support.",
+        "Built an Outlook add-in connecting Outlook with Jira — enabling ticket creation and issue viewing directly from email.",
+        "Built a custom backup system using Azure Functions and Azure Blob Storage."
       ]
     },
     {
