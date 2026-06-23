@@ -104,12 +104,12 @@
       "url": "https://eg.dk/it/kalkulation-og-opmaaling/eg-sigma/",
       "startDate": "2017-06-01",
       "endDate": "2018-06-30",
-      "summary": "Part of the Core Sigma Team, responsible for the build pipeline, the upcoming cloud framework, and SharePoint Online integration. The Sigma Engine was written in Delphi XE. The cloud framework was written in C#, and the SharePoint Online integration was written in C#.",
+      "summary": "Part of the Core Sigma Team, working on the build pipeline, cloud framework, and SharePoint Online integration for the Sigma Ecosystem. Cloud and integration work written in C#.",
       "highlights": [
-        "Migrated the build pipeline to new server hardware.",
-        "Implemented the new cloud framework for the Sigma Ecosystem, using methodologies such as CQRS, and Event Sourcing.",
-        "Created a custom file handler for SharePoint Online, enabling users to open files directly into the Sigma Engine.",
-        "Integrated third-party pricing catalogues into the Sigma Engine."
+        "Implemented a new cloud framework for the Sigma Ecosystem using CQRS and Event Sourcing.",
+        "Created a custom SharePoint Online file handler, enabling users to open files directly in the Sigma Engine.",
+        "Integrated third-party pricing catalogues into the Sigma Engine.",
+        "Migrated the build pipeline to new server hardware."
       ]
     },
     {
@@ -119,11 +119,11 @@
       "url": "https://www.aldautomotive.dk/",
       "startDate": "2016-09-01",
       "endDate": "2017-05-31",
-      "summary": "Part of the team that remade the customer portal MyALD from scratch. Built using C#, ASP.NET CORE MVC, and MSSQL.",
+      "summary": "Rebuilt the customer portal MyALD from scratch using C#, ASP.NET Core MVC, and MSSQL, replacing a legacy Sitecore solution.",
       "highlights": [
-        "Migrating from a Sitecore solution to a custom built web application, using ASP.NET CORE MVC.",
-        "Integrated the backend with a new frontend, written by In2Media.",
-        "Took over frontend development from In2Media."
+        "Led the migration from Sitecore to a custom ASP.NET Core MVC web application.",
+        "Integrated the backend with a new frontend delivered by In2Media.",
+        "Took over and maintained frontend development from the external vendor."
       ]
     },
     {
