@@ -130,39 +130,16 @@
     {
       "name": "Autobutler",
       "location": "Copenhagen, DK",
-      "position": "Junior Software Developer",
-      "url": "https://www.autobutler.dk/",
-      "startDate": "2015-06-01",
-      "endDate": "2016-08-31",
-      "summary": "During my time at Autobutler I was part of the team that built and maintained the Autobutler platform. The platform was built using Ruby on Rails, and the front-end was built using Angular.js, SCSS, and HTML. We started migrating the front-end to React.js.",
-      "highlights": [
-        "Refactored the in-house CMS system for increased performance, maintainability, and usability."
-      ]
-    },
-    {
-      "name": "Autobutler",
-      "location": "Copenhagen, DK",
-      "position": "Junior Software Developer",
-      "url": "https://www.autobutler.dk/",
-      "startDate": "2014-10-01",
-      "endDate": "2015-02-01",
-      "summary": "During my time at Autobutler I was part of the team that built and maintained the Autobutler platform. The platform was built using Ruby on Rails, and the front-end was built using CoffeeScript, SCSS, and HTML. We started migrating the front-end to Angular.js.",
-      "highlights": [
-        "Integrated Atubutler's platform with Comparo (insurance company), and Uber.",
-        "Built a solution for car owners to get an offer on car insurance, in conjunction with NeXt Insurance."
-      ]
-    },
-    {
-      "name": "Autobutler",
-      "location": "Copenhagen, DK",
-      "position": "Developer Intern",
+      "position": "Software Developer",
       "url": "https://www.autobutler.dk/",
       "startDate": "2014-07-01",
-      "endDate": "2014-10-01",
-      "summary": "During my time at Autobutler I was part of the team that built and maintained the Autobutler platform. The platform was built using Ruby on Rails, and the front-end was built using CoffeeScript, SCSS, and HTML.",
+      "endDate": "2016-08-31",
+      "summary": "Joined as an intern and progressed to Junior Software Developer. Built and maintained the Autobutler platform, written in Ruby on Rails with a CoffeeScript/Angular.js frontend migrating to React.js.",
       "highlights": [
-        "Designed and implemented a benefit system, enabling car owner to view the advantages they received from other companies, by using Autobutler's services.",
-        "Maintained and developed new features for the 'get an offer on car insurance' solution"
+        "Integrated the platform with third-party services including Comparo (insurance) and Uber.",
+        "Built a car insurance offer solution in partnership with NeXt Insurance.",
+        "Designed and implemented a customer benefit system for Autobutler users.",
+        "Refactored the in-house CMS for improved performance, maintainability, and usability."
       ]
     }
   ],
