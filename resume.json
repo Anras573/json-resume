@@ -47,10 +47,12 @@
       "position": "Senior Software Engineer",
       "url": "https://www.siteimprove.com/",
       "startDate": "2023-12-01",
-      "summary": "During my time at Siteimprove, I have focused on migrating the existing system to a micro frontend-oriented architecture, ensuring scalability, maintainability, and enhanced user experience. I contributed to both the design and implementation of new features while optimizing the platform to meet modern web standards.",
+      "endDate": "2024-11-30",
+      "summary": "Focused on modernising the platform architecture through micro frontends, and contributed to AI-powered content tooling. Worked across both infrastructure and product features.",
       "highlights": [
-        "Collaborated with product teams to identify key areas for improvement and successfully implemented solutions that align with business goals and user needs.",
-        "Developed and maintained reusable components and services that enhanced the development workflow, accelerating feature delivery across the engineering team."
+        "Built the internal Micro Frontend framework in TypeScript, enabling independent deployment and scalability across the platform.",
+        "Contributed to an AI-agnostic tone-of-voice validation application written in TypeScript, consuming AI capabilities via a shared internal endpoint.",
+        "Developed and maintained shared components and services across a polyglot stack (Rust, C#, TypeScript)."
       ]
     },
     {
