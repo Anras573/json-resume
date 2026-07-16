@@ -6,7 +6,7 @@
     "image": "https://avatars.githubusercontent.com/u/3352626?v=4",
     "email": "anras573@gmail.com",
     "url": "https://anbora.dk",
-    "summary": "Senior Software Engineer with 10+ years of experience building backend systems, platform tooling, and AI-powered products, primarily in C# and TypeScript. Experienced driving architecture decisions and technical scoping in cross-functional product teams - from data model design through production infrastructure. Increasingly focused on the intersection of AI and developer tooling, including open-source work on multi-agent workflows and Model Context Protocol integrations. Known for raising the technical bar of the teams I work in through mentoring, knowledge sharing, and acting as a technical lead where the role calls for it.",
+    "summary": "Senior Software Engineer with 10+ years of experience building backend systems, platform tooling, and AI-powered products, primarily in C# and TypeScript. Experienced driving architecture decisions and technical scoping in cross-functional product teams, from data model design through production infrastructure. Increasingly focused on the intersection of AI and developer tooling, including open-source work on multi-agent workflows and Model Context Protocol integrations. Known for raising the technical bar of the teams I work in through mentoring, knowledge sharing, and acting as a technical lead where the role calls for it.",
     "location": {
       "postalCode": "4200",
       "city": "Slagelse",
@@ -34,11 +34,11 @@
       "startDate": "2024-12-01",
       "summary": "Working on the Creative Work Management platform, focused on AI-powered tooling for marketing and campaign operations. Drove architecture decisions, led cross-team technical initiatives, and raised the technical bar of the team through mentoring and knowledge sharing.",
       "highlights": [
-        "Led end-to-end delivery of Smart Briefing from architecture design through production deployment on AWS — covering AI-driven brief generation, deliverable predictions, schema versioning, and infrastructure provisioning.",
+        "Led end-to-end delivery of Smart Briefing from architecture design through production deployment on AWS, covering AI-driven brief generation, deliverable predictions, schema versioning, and infrastructure provisioning.",
         "Authored ADR-001, defining a JSONB-based storage-agnostic model for deliverable predictions with field-level reasoning and schema versioning.",
         "Led technical scoping and cross-team coordination for a multi-epic platform initiative, driving the decomposition of a 20-story epic into independently deliverable tracks.",
         "Provisioned the Smart Briefing production environment on AWS using Terraform, including drift investigation and resolution between dev and prod configurations.",
-        "Coached junior and mid-level engineers through structured sessions on scoping and technical decision-making — operating as a technical lead across these interactions.",
+        "Coached junior and mid-level engineers through structured sessions on scoping and technical decision-making, operating as a technical lead across these interactions.",
         "Published a weekly internal AI newsletter covering developments relevant to the engineering team."
       ]
     },
@@ -63,7 +63,7 @@
       "url": "https://www.dfds.com/da-dk/passagerfaerger",
       "startDate": "2021-10-01",
       "endDate": "2023-11-30",
-      "summary": "Backend engineer on the Planning system for DFDS Logistics — a C#/WPF desktop application with a C#/MSSQL backend. Focused on code quality, knowledge sharing, and team onboarding.",
+      "summary": "Backend engineer on the Planning system for DFDS Logistics, a C#/WPF desktop application with a C#/MSSQL backend. Focused on code quality, knowledge sharing, and team onboarding.",
       "highlights": [
         "Migrated a PostgreSQL database from version 10 to version 15 in AWS RDS, upgrading the underlying server tier from 2 to 3.",
         "Hosted tech talks and championed dedicated learning time across the team.",
@@ -94,7 +94,7 @@
       "summary": "Consultant responsible for an emailing system and a custom backup solution built to meet strict compliance requirements. Stack: C#, ASP.NET, Knockout.js, Azure Functions, and Azure Blob Storage.",
       "highlights": [
         "Extended the emailing system with threaded conversation support.",
-        "Built an Outlook add-in connecting Outlook with Jira — enabling ticket creation and issue viewing directly from email.",
+        "Built an Outlook add-in connecting Outlook with Jira, enabling ticket creation and issue viewing directly from email.",
         "Built a custom backup system using Azure Functions and Azure Blob Storage."
       ]
     },
@@ -292,7 +292,7 @@
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v2.0.0",
-    "lastModified": "2026-06-23T11:34:00"
+    "version": "v2.1.0",
+    "lastModified": "2026-07-16T14:17:00"
   }
 }
