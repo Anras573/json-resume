@@ -1,0 +1,46 @@
+name: Release Resume
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - resume.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+          cache: npm
+
+      - run: npm ci
+
+      - name: Validate resume
+        run: npm run validate
+
+      - name: Render HTML
+        run: npm run render
+
+      - name: Generate PDF
+        run: node scripts/generate-pdf.mjs resume.html resume.pdf
+
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="resume-$(date -u +%Y-%m-%d)-${GITHUB_SHA::7}"
+          gh release create "$tag" resume.pdf resume.html resume.json \
+            --title "Resume $(date -u +%Y-%m-%d)" \
+            --notes "Resume generated from ${GITHUB_SHA}." \
+            --latest

@@ -25,5 +25,8 @@
   "dependencies": {
     "jsonresume-theme-even": "^0.18.1",
     "resumed": "^3.0.1"
+  },
+  "devDependencies": {
+    "puppeteer": "^25.16.0"
   }
 }
