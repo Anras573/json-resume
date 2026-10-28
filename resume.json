@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Anders Bo Rasmussen",
+    "name": "Anders Ayoe Autzen",
     "label": "Senior Software Engineer",
     "image": "https://avatars.githubusercontent.com/u/3352626?v=4",
     "email": "anras573@gmail.com",
@@ -15,7 +15,7 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "Anders Bo Rasmussen",
+        "username": "Anders Ayoe Autzen",
         "url": "https://www.linkedin.com/in/anders-bo-rasmussen-67693121/"
       },
       {
@@ -293,6 +293,6 @@
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v2.1.0",
-    "lastModified": "2026-07-16T14:17:00"
+    "lastModified": "2026-10-28T12:00:00"
   }
 }
